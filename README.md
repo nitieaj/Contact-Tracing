@@ -1,2 +1,2 @@
 # Contact-Tracing
-Relationship between social distancing and clinical risk
+Explore and extrapolate any relationship between social distancing and clinical risk.

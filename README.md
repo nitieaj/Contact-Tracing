@@ -5,11 +5,11 @@ Explore and extrapolate any relationship between social distancing and clinical 
 
 
 ## Input
-Input: Mimic iv dataset, ontologies: ICD9,ICD10,SNOMED,LOINC,CPT codes, SAPS score, National Early Warning System (NEWS) Score,provider , Simulated RF Air interface parameters (mobile rssi txpower,downlink rxlev,aggregate dataset made up of structured and unstructured data comprising several features engineered from the two intersecting domains.
+Input: Mimic iv dataset, ontologies: ICD9,ICD10,SNOMED,LOINC,CPT codes, SAPS score, National Early Warning System (NEWS) Score, Simulated RF Air interface parameters (mobile rssi txpower, downlink Rxlev, aggregate dataset made up of structured and unstructured data comprising several features engineered from the two intersecting domains.
 
 
 ## Algorithm
-Algorithm: R,feature engineering,Multinomial regression, NLP,tokenization, word2vec, link budget analysis,postgress database
+Algorithm: R,feature engineering, Multinomial regression, NLP,tokenization, word2vec, link budget analysis, postgress database
 
 
 ## Outout

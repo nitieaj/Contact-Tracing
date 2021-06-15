@@ -13,6 +13,5 @@ Algorithm: R,feature engineering, Multinomial regression, NLP,tokenization, word
 
 
 ## Outout
-Output: Classification of patient/users based on the risk level
-Statistical significant variables and comfounding factors.
-Relationship and pattern  visuals.
+Output: Classification of patient/users based on the risk level, Statistical significant variables and comfounding factors.
+
